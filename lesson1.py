@@ -8,7 +8,9 @@
 # This simple program teaaches you how to ask for user input, save the input to a variable, calculate the decades and years, convert the numbers to text, and print results to the screen.
 
 
+#createign a variable. 
 
+# When we create a variable, a piece of memory is created to store a value.
 
 
 
@@ -19,4 +21,8 @@
 #Web Requests
 
 #installing and using python packages
+
+
+
+
 
