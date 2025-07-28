@@ -41,3 +41,8 @@ print(greeting)
 # We can collect input from the user using the input function.
 # Read the blog post about the input function
 
+hello = "hello"
+name= input("what is your name? \n")
+
+greeting = hello +" "+ name
+print(greeting)
