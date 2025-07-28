@@ -42,7 +42,7 @@ print(greeting)
 # Read the blog post about the input function
 
 hello = "hello"
-name= input("what is your name? \n")
+name= input("what is your name?\n")
 
 greeting = hello +" "+ name
 print(greeting)
