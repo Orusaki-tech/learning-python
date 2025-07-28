@@ -8,13 +8,12 @@
 # This simple program teaaches you how to ask for user input, save the input to a variable, calculate the decades and years, convert the numbers to text, and print results to the screen.
 
 
-#createign a variable. 
+#creating a variable. 
+#Refer to the file variable.md
+#Refer to variable.py
 
-# When we create a variable, a piece of memory is created to store a value.
 
-
-
-#Input and Outout
+#Input and Output
 
 #Data Types
 
