@@ -43,4 +43,5 @@ def addition(a,b):
 
 
 sum = addition(1,2)
+print(addition)
 print(sum)
